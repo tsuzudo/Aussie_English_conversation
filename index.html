@@ -1,0 +1,120 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>オーストラリア英語 会話練習</title>
+<meta name="description" content="オーストラリア英語の日常会話を、音声と日本語訳つきで練習できるページです。">
+<meta property="og:title" content="オーストラリア英語 会話練習">
+<meta property="og:description" content="オーストラリア英語の日常会話を、音声と日本語訳つきで練習できるページです。">
+<meta property="og:type" content="website">
+<link rel="canonical" href="https://tsuzudo.github.io/Aussie_English_conversation/">
+<meta property="og:url" content="https://tsuzudo.github.io/Aussie_English_conversation/">
+<style>
+:root {
+  --bg: #ffffff; --fg: #1b1b1f; --muted: #5f6169; --line: #e3e4e8;
+  --card: #f7f8fa; --accent: #1a5fb4; --accent-fg: #ffffff; --note: #6a4b16;
+  --note-bg: #fdf6e3;
+  /* 再生中の目印。英文を蛍光ペンで塗る（--hl-mark）。
+     --hl-mark-fg は塗った上に載る文字の色。暗い配色では下で入れ替える。 */
+  --hl-row: #fbf7e8; --hl-mark: #ffe680; --hl-mark-fg: #1b1b1f;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #16171a; --fg: #e8e9ec; --muted: #a0a3ab; --line: #2c2e33;
+    --card: #1e2024; --accent: #6ea8f0; --accent-fg: #10131a; --note: #e7cf9a;
+    --note-bg: #2a2418;
+    /* 明るい配色と同じ黄色を使うと、白い文字が乗って読めなくなる。
+       暗い琥珀色にして、文字を明るくする。 */
+    --hl-row: #241f14; --hl-mark: #6b5410; --hl-mark-fg: #ffeeb8;
+  }
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0; padding: 1.5rem 1rem 4rem; background: var(--bg); color: var(--fg);
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Noto Sans JP", sans-serif;
+  line-height: 1.5; -webkit-text-size-adjust: 100%;
+}
+main { max-width: 44rem; margin: 0 auto; }
+a { color: var(--accent); }
+h1 { font-size: 1.5rem; line-height: 1.4; margin: 0 0 .5rem; }
+.meta { color: var(--muted); font-size: .875rem; margin: 0 0 1.5rem; }
+.meta span + span::before { content: "・"; }
+.playall {
+  display: inline-flex; align-items: center; gap: .5rem; margin-bottom: 2rem;
+  padding: .6rem 1.2rem; border: 0; border-radius: 999px; cursor: pointer;
+  background: var(--accent); color: var(--accent-fg); font-size: 1rem;
+  font-family: inherit; font-weight: 600;
+}
+.playall:hover { opacity: .88; }
+ol.lines { list-style: none; margin: 0; padding: 0; }
+li.line {
+  display: grid; grid-template-columns: 2.5rem 1fr; gap: .2rem .7rem;
+  padding: .6rem 0; border-top: 1px solid var(--line);
+}
+/* 再生中の目印。行をうっすら染めたうえで、**英文だけを蛍光ペンで塗る。**
+   聞き取る対象は英文なので、そこへ目が行くようにしている。
+   box-shadow は塗りを文字の外側へ少し広げるために使っている（余白の代わり）。 */
+li.line.playing { background: var(--hl-row); }
+li.line.playing .en {
+  background: var(--hl-mark); color: var(--hl-mark-fg);
+  border-radius: .25rem; box-shadow: 0 0 0 .25rem var(--hl-mark);
+}
+/* 話者名は英文の中にあるので、塗られた上でも読める色に合わせる */
+li.line.playing .en .who { color: inherit; opacity: .72; }
+li.line.playing .play {
+  background: var(--accent); color: var(--accent-fg); border-color: var(--accent);
+}
+/* 左の列はボタンだけ。文章はすべて右の列に積む。
+   **列を書かずに済ませないこと。** 自動配置に任せると、解説の有無で行数が
+   変わったときに文章が左の細い列へ回り込み、縦書きのように潰れる。 */
+.play { grid-column: 1; grid-row: 1; align-self: start; }
+.en, .ja, .note { grid-column: 2; }
+.play {
+  width: 2.1rem; height: 2.1rem; margin-top: .05rem;
+  border: 1px solid var(--line); border-radius: 50%; background: var(--card);
+  color: var(--fg); cursor: pointer; font-size: .85rem; line-height: 1;
+}
+.play:hover { border-color: var(--accent); color: var(--accent); }
+/* 話者名は英文と同じ行の先頭に置く（1行を使わない） */
+.who { color: var(--muted); font-size: .8125rem; font-weight: 400; margin-right: .45rem; }
+.en { font-size: 1.0625rem; font-weight: 600; margin: 0; }
+.ja { color: var(--muted); margin: 0; }
+.note {
+  background: var(--note-bg); color: var(--note); font-size: .85rem;
+  padding: .35rem .6rem; border-radius: .375rem; margin: .15rem 0 0;
+}
+footer { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid var(--line);
+  color: var(--muted); font-size: .875rem; }
+ul.skits { list-style: none; margin: 0; padding: 0; }
+ul.skits li { border-top: 1px solid var(--line); }
+ul.skits a { display: block; padding: 1rem .25rem; text-decoration: none; color: inherit; }
+ul.skits a:hover { background: var(--card); }
+ul.skits .t { font-size: 1.125rem; font-weight: 600; color: var(--accent); }
+</style>
+</head>
+<body>
+<main>
+<h1>オーストラリア英語 会話練習</h1>
+<p class="meta">オーストラリア英語の日常会話を、音声と日本語訳つきで練習できるページです。</p>
+<ul class="skits">
+<li><a href="handing-in-resume.html"><span class="t">レストランに履歴書を持ち込む</span><span class="meta" style="display:block;margin:0"><span>ワーキングホリデーでレストランにレジメを持って行った時の会話</span><span>中級</span><span>オーストラリア</span></span></a></li>
+<li><a href="pharmacy-headache.html"><span class="t">薬局で頭痛薬を買う</span><span class="meta" style="display:block;margin:0"><span>薬局で頭痛薬を買う</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="furniture-store-table.html"><span class="t">家具店でテーブルを買う</span><span class="meta" style="display:block;margin:0"><span>家具店でテーブルを買う時の会話</span><span>中級</span><span>オーストラリア</span></span></a></li>
+<li><a href="sydney-hotel-checkin.html"><span class="t">シドニーのホテルでチェックイン</span><span class="meta" style="display:block;margin:0"><span>シドニーでホテルにチェックイン</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="supermarket-asian-food.html"><span class="t">アジアン食品売り場をたずねる</span><span class="meta" style="display:block;margin:0"><span>スーパーの中でアジアン食品（例えば豆腐）の売り場をスタッフに聞く。</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="melbourne-cafe-takeaway.html"><span class="t">カフェでコーヒーとケーキをテイクアウト</span><span class="meta" style="display:block;margin:0"><span>メルボルンのカフェでコーヒーとケーキを注文してテイクアウトする。</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="japanese-food-recommendation.html"><span class="t">日本食のおすすめを聞かれる</span><span class="meta" style="display:block;margin:0"><span>オーストラリア人の友人に「日本食でおすすめのものは？」と聞かれた時の会話。</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="japan-travel-tips.html"><span class="t">日本のおすすめ観光地を教える</span><span class="meta" style="display:block;margin:0"><span>日本に旅行に行きたいオーストラリア人友人がどこがおすすめかを聞かれた時のやりとり。</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="dinner-invite-call.html"><span class="t">ディナーに招待されて</span><span class="meta" style="display:block;margin:0"><span>友人宅にディナーに招待され、何か持ってきて欲しいものはないかを確認する。電話での会話。</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="dinner-invitation.html"><span class="t">食事の誘いを受ける</span><span class="meta" style="display:block;margin:0"><span>日本人女性がオーストラリア人男性に「今晩一緒に食事でもどうか」と誘われたときの受け答え。承諾する。</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="asking-for-morning-leave.html"><span class="t">上司に午前休を申請する</span><span class="meta" style="display:block;margin:0"><span>職場の上司に明日午前の休暇を申請する。理由は銀行ににいくため。</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="restaurant-ordering.html"><span class="t">レストランで注文する</span><span class="meta" style="display:block;margin:0"><span>レストランでの注文</span><span>初級</span><span>オーストラリア</span></span></a></li>
+<li><a href="airport-immigration.html"><span class="t">空港での入国審査</span><span class="meta" style="display:block;margin:0"><span>空港での入国手続き</span><span>初級</span><span>オーストラリア</span></span></a></li>
+</ul>
+<footer>
+<p>全 13 本。音声は macOS の音声合成で作成しています。</p>
+</footer>
+</main>
+</body>
+</html>

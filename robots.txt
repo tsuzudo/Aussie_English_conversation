@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tsuzudo.github.io/Aussie_English_conversation/sitemap.xml
