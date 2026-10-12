@@ -1,0 +1,1220 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-12",
+  "pronunciation_overrides": [
+    {
+      "from": "Ta",
+      "to": "Tah"
+    },
+    {
+      "from": "Hakone",
+      "to": "Hakoh-neigh"
+    }
+  ],
+  "skits": [
+    {
+      "slug": "furniture-bed-delivery",
+      "title": "家具屋でベッドを買う",
+      "level": "intermediate",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Shopper",
+          "role_ja": "買い物客"
+        },
+        {
+          "id": "B",
+          "label_en": "Sales Assistant",
+          "role_ja": "店員"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Hi. I'm after a queen bed frame and a mattress to go with it.",
+          "ja": "こんにちは。クイーンサイズのベッドフレームと、それに合うマットレスを探しているんですが。",
+          "note": "be after ～ は「～を探している」という豪州でよく使う言い方。I'm looking for より口語的。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "No worries. Have a look at this one — it's solid timber and it's on special this week.",
+          "ja": "いいですよ。こちらをご覧ください。無垢材で、今週は特価になっています。",
+          "note": "on special は「セール中」の意味で豪州で一般的。on sale より日常的に使われる。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "It looks great. Does the price include the mattress, or is that extra?",
+          "ja": "よさそうですね。その値段にマットレスは含まれていますか、それとも別料金ですか。",
+          "note": "extra は「追加料金がかかる」という意味。名詞ではなく「別料金で」の形容詞として使う。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "That's just the frame, I'm afraid. Our mattresses start at four ninety-nine.",
+          "ja": "申し訳ありませんが、それはフレームだけの値段です。マットレスは499ドルからになります。",
+          "note": "start at ～ は「最低で～から」。値段の下限を言うときの決まった言い方。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Fair enough. I'll take the medium-firm one. Can you deliver to Glenelg?",
+          "ja": "なるほど、わかりました。ミディアムファームのものにします。グレネルグまで配達してもらえますか。",
+          "note": "Fair enough は「まあ納得」「了解」と相手の説明を受け入れる相づち。豪州で非常によく使う。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Yeah, we deliver right across Adelaide. It's sixty-five dollars, and the boys can take the old bed away for you.",
+          "ja": "ええ、アデレード全域に配達しています。65ドルで、古いベッドの引き取りもできますよ。",
+          "note": "take away は「持ち去る・処分する」。豪州では「テイクアウト」の意味でも take away を使う。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "That'd be brilliant. When's the earliest you could get it out to me?",
+          "ja": "それは助かります。最短でいつ届けてもらえますか。",
+          "note": "get something out to someone は「（品物を）～のところへ届ける」。配達の話でよく出る言い回し。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "We've got a run out that way on Thursday afternoon, between one and four.",
+          "ja": "木曜の午後、その方面へ回る便がありますよ。1時から4時の間です。",
+          "note": "a run は「配送の巡回ルート」のこと。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "Thursday suits me. Will they assemble the frame, or do I need to put it together myself?",
+          "ja": "木曜で大丈夫です。フレームは組み立ててもらえますか、それとも自分で組み立てるんでしょうか。",
+          "note": "put together は「組み立てる」。assemble のくだけた言い方で会話ではこちらが自然。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "They'll set it up in the room for you. Just make sure there's a clear path in.",
+          "ja": "お部屋で組み立てておきますよ。搬入経路を空けておいてくださいね。",
+          "note": "set up は「設置して使える状態にする」。組み立てから配置までを含む。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "Will do. Can I pay half now and the rest on delivery?",
+          "ja": "そうします。半分を今払って、残りを配達時に払うことはできますか。",
+          "note": "Will do は「そうします」という短い返事。I will do it の省略形で口語的。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Too easy. I'll pop your details in the system and text you a delivery window on Wednesday.",
+          "ja": "お安いご用です。お客様の情報を登録して、水曜に配達時間帯をショートメールでお知らせします。",
+          "note": "Too easy は「お安いご用」「問題ないですよ」という豪州の決まり文句。pop は「さっと入れる」の軽い言い方。"
+        }
+      ]
+    },
+    {
+      "slug": "handing-in-resume",
+      "title": "レストランに履歴書を持ち込む",
+      "level": "intermediate",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Job Seeker",
+          "role_ja": "求職者"
+        },
+        {
+          "id": "B",
+          "label_en": "Owner",
+          "role_ja": "レストランオーナー"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "G'day, sorry to bother you. Are you the manager here?",
+          "ja": "こんにちは、お忙しいところすみません。こちらの店長さんですか？",
+          "note": "G'day はオーストラリアで最も有名な挨拶。Good day の短縮形で、朝でも昼でも使える。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Yeah, that's me. I own the place. What can I do for you?",
+          "ja": "ええ、私です。この店のオーナーです。どうされました？",
+          "note": "the place は「この店」を指すくだけた言い方。文字通りの「場所」ではない。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "I'm on a working holiday visa and I'm after a job. I've brought my resume, if you've got a minute.",
+          "ja": "ワーキングホリデーのビザで来ていて、仕事を探しています。もしお時間があれば、履歴書をお持ちしました。",
+          "note": "be after ~ は「〜を探している・欲しい」。looking for より口語的で、豪英でよく使う。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "No worries, I'll take a look. Have you done any hospo work before?",
+          "ja": "いいですよ、見てみましょう。飲食のお仕事の経験はありますか？",
+          "note": "hospo は hospitality（飲食・接客業）の豪州式の略語。求人広告でも普通に見かける。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Yeah, I worked as a waitress in Japan for about two years, and I did a bit of barista work too.",
+          "ja": "はい、日本で2年ほどウェイトレスをしていました。バリスタの仕事も少しやりました。",
+          "note": "a bit of ~ は「少しの〜」。控えめに経験を伝えるときに便利な言い回し。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "That's handy. We're pretty flat out on weekends. Are you available Saturdays and Sundays?",
+          "ja": "それは助かります。うちは週末がかなり忙しくて。土日は入れますか？",
+          "note": "flat out は「大忙し」。豪州の職場で「今日は flat out だ」のように頻繁に使う。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Yeah, weekends are no problem. I can do arvo and evening shifts as well.",
+          "ja": "はい、週末は問題ありません。午後や夜のシフトも入れます。",
+          "note": "arvo は afternoon の豪州式の略。this arvo（今日の午後）のように使う。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Beauty. What about your English? Are you comfortable taking orders over the phone?",
+          "ja": "いいですね。英語のほうはどうですか？ 電話で注文を受けるのは大丈夫ですか？",
+          "note": "Beauty は「いいね、最高だ」という豪州特有の相づち。Beautiful の形だが人の美しさとは無関係。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "I'm still working on it, but I'll give it a go. I pick things up pretty quickly.",
+          "ja": "まだ勉強中ですが、やってみます。覚えるのは早いほうです。",
+          "note": "give it a go は「やってみる」。try よりくだけた豪英・英英の定番表現。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "Fair enough. Honesty's better than pretending. Leave your resume with me and I'll give you a bell this week.",
+          "ja": "なるほど、いいでしょう。できるふりをするより正直なほうがいい。履歴書を置いていってください。今週中に電話します。",
+          "note": "give someone a bell は「電話をかける」。give someone a call と同じ意味の口語表現。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "Thanks so much. Should I write my number on the back, just in case?",
+          "ja": "ありがとうございます。念のため、裏に電話番号を書いておきましょうか？",
+          "note": "just in case は「念のため」。文末に付けるだけで使える便利な決まり文句。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Good on ya. Do that, and I'll be in touch. Cheers.",
+          "ja": "えらいね。そうしてくれる？こちらから連絡するよ。じゃあね。",
+          "note": "「Good on ya」は「Good on you」のくだけた形で、豪州で相手をほめたり感心したりするときの定番表現。「Cheers」は別れ際の「じゃあね」や軽い「ありがとう」として使われる。"
+        }
+      ]
+    },
+    {
+      "slug": "pharmacy-headache",
+      "title": "薬局で頭痛薬を買う",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Customer",
+          "role_ja": "客"
+        },
+        {
+          "id": "B",
+          "label_en": "Pharmacist",
+          "role_ja": "薬剤師"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "G'day. Do you have something for a headache?",
+          "ja": "こんにちは。頭痛に効くものはありますか。",
+          "note": "G'day は オーストラリアで定番の挨拶。Good day が縮まったもので、朝でも昼でも使える。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "G'day. Yes, Panadol is what most people take here.",
+          "ja": "こんにちは。はい、こちらではパナドールを飲む人がほとんどですね。",
+          "note": "Panadol はオーストラリアで最も一般的な頭痛薬のブランド名。日本のバファリンのような感覚で通じる。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "Okay. Is it a chemist-only medicine?",
+          "ja": "わかりました。それは薬局でしか買えない薬ですか。",
+          "note": "chemist はイギリス英語・オーストラリア英語で「薬局」。アメリカ英語の drugstore や pharmacy にあたる。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "No, you can buy it off the shelf. Take two tablets with water.",
+          "ja": "いいえ、棚から取ってそのまま買えますよ。水と一緒に2錠飲んでください。",
+          "note": "off the shelf は「棚に並んでいて自由に買える」。処方箋なしで買える市販薬を指すときによく使う。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "How often can I take them?",
+          "ja": "どのくらいの間隔で飲めますか。",
+          "note": "How often ...? は「どのくらいの頻度で」と回数をたずねる言い方。薬や乗り物の本数を聞くときの定番。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Every four to six hours. No more than eight a day.",
+          "ja": "4〜6時間おきです。1日8錠までにしてください。",
+          "note": "no more than ... は「〜を超えないで」。上限を伝えるときの決まった言い方。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Can I take them on an empty stomach?",
+          "ja": "空腹のときに飲んでも大丈夫ですか。",
+          "note": "on an empty stomach で「空腹時に」。日本語の「食前・食後」を説明するときにも役立つ表現。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Yeah, that's fine. But have a bite to eat if you can.",
+          "ja": "ええ、大丈夫です。でもできれば何か少し食べてからにしてください。",
+          "note": "a bite to eat は「軽く何か食べるもの」。オーストラリアの日常会話でとてもよく使う。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "How much is it?",
+          "ja": "いくらですか。",
+          "note": ""
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "Seven fifty. Cash or card?",
+          "ja": "7ドル50セントです。現金ですか、カードですか。",
+          "note": "Seven fifty のように通貨の単位を省いて言うことが多い。7 dollars 50 cents の短縮形。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "Card, thanks.",
+          "ja": "カードでお願いします。",
+          "note": "文末の thanks は「〜でお願いします」という軽い依頼になる。オーストラリアでは ta（タ）と言うこともある。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Too easy. Hope you feel better soon.",
+          "ja": "お安いご用です。早くよくなるといいですね。",
+          "note": "Too easy はオーストラリア特有の返事で「お安いご用・問題ないよ」。No worries とほぼ同じ場面で使う。"
+        }
+      ]
+    },
+    {
+      "slug": "furniture-store-table",
+      "title": "家具店でテーブルを買う",
+      "level": "intermediate",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Shopper",
+          "role_ja": "買い物客"
+        },
+        {
+          "id": "B",
+          "label_en": "Sales Assistant",
+          "role_ja": "店員"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Excuse me, I'm after a dining table for a small flat. Could you point me in the right direction?",
+          "ja": "すみません、狭いアパート用のダイニングテーブルを探しています。売り場を教えていただけますか？",
+          "note": "be after ~ は「~を探している」。オーストラリア・イギリスの口語で、店では I'm looking for ~ より自然に響く。flat は「アパート」（アメリカでは apartment）。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "No worries, you've come to the right spot. Our compact range is just over here. How many people do you need to seat?",
+          "ja": "もちろんです、ちょうどいい場所に来られましたね。小型のシリーズはすぐそこです。何人掛けをお探しですか？",
+          "note": "No worries はオーストラリアの最頻出表現。「いいですよ」「どういたしまして」など幅広く使う。range は商品の「シリーズ・品揃え」。seat は動詞で「（人数を）座らせる」。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "Just four, most of the time. I really like this one, but I'm not sure it'll fit through my front door.",
+          "ja": "たいていは4人です。これがとても気に入ったのですが、玄関のドアを通るかどうか自信がありません。",
+          "note": "fit through ~ は「~を通り抜けられる」。家具を買うときの定番の心配ごと。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "Good thinking. That one comes flat-packed, so it's no drama at all — the legs screw on once it's inside.",
+          "ja": "いいところに気づかれましたね。そちらは平たい箱に分解された状態で届くので、まったく問題ありません。中に運び入れてから脚をねじで留めます。",
+          "note": "flat-packed は組み立て式家具が平たい箱に分解梱包された状態。no drama はオーストラリア口語で「問題ない」。No worries とほぼ同じ意味で使われる。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "That's a relief. Is it solid timber, or is it a veneer? I'd rather something that lasts.",
+          "ja": "それは安心しました。無垢材ですか、それとも化粧板ですか？ 長持ちするものがいいのですが。",
+          "note": "timber はオーストラリア・イギリスで「木材」（アメリカでは lumber）。solid timber は「無垢材」、veneer は表面に薄い板を貼った「化粧板」。I'd rather ~ は「どちらかといえば~がいい」。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "It's solid oak, and it comes with a five-year warranty. It's a bit dearer than the veneer ones, but honestly, it's worth it.",
+          "ja": "無垢のオーク材で、5年保証が付いています。化粧板のものより少し高いですが、正直なところ、その価値はあります。",
+          "note": "dearer は dear（値段が高い）の比較級。オーストラリア・イギリスの口語で expensive の代わりによく使う。come with ~ は「~が付いてくる」。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Fair enough. How much is it, and do you deliver? I don't have a car big enough.",
+          "ja": "なるほど、納得です。おいくらですか？ 配送はしていますか？ 十分な大きさの車を持っていないもので。",
+          "note": "Fair enough は相手の説明に納得したときの相づち。「なるほど」「それなら仕方ない」。オーストラリアで非常によく使う。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "It's six hundred and ninety dollars. Delivery within the metro area is fifty, and we can usually get it to you within the week.",
+          "ja": "690ドルです。市内であれば配送料は50ドルで、たいていは1週間以内にお届けできます。",
+          "note": "metro area は「都市部・市街地」。within the week は「今週中に」という意味合いで、within a week（今から1週間以内）とは少しずれる。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "That works for me. Could I have it delivered on Saturday morning, if that's possible?",
+          "ja": "それで大丈夫です。もし可能なら、土曜日の午前中に配達してもらえますか？",
+          "note": "That works for me. は「それで問題ありません」。日程や条件に同意するときの決まり文句。have it delivered は「配達してもらう」（使役の have）。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "Let me have a quick look. Yes, Saturday between nine and twelve is free. Shall I lock that in for you?",
+          "ja": "少し確認させてください。はい、土曜の9時から12時の枠が空いています。その時間で確定してもよろしいですか？",
+          "note": "have a look はイギリス・オーストラリアで「見てみる」（アメリカでは take a look）。lock in は「（予定を）確定する・押さえる」。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "Yes please, that'd be great. I'll pay by card if that's all right.",
+          "ja": "はい、お願いします。助かります。差し支えなければカードで払います。",
+          "note": "that'd は that would の短縮。if that's all right は「よろしければ」と丁寧に添える言い方。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Too easy. Just pop over to the counter with me and I'll write up the order.",
+          "ja": "お安い御用です。カウンターまで一緒に来ていただければ、注文書をお作りします。",
+          "note": "Too easy はオーストラリア特有の返事で「簡単なことです」「お安い御用」。pop over は「ちょっと立ち寄る・移動する」というくだけた言い方。"
+        }
+      ]
+    },
+    {
+      "slug": "sydney-hotel-checkin",
+      "title": "シドニーのホテルでチェックイン",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Traveler",
+          "role_ja": "旅行者"
+        },
+        {
+          "id": "B",
+          "label_en": "Receptionist",
+          "role_ja": "フロント係"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Hi, I'd like to check in, please. I have a booking under Sato.",
+          "ja": "こんにちは、チェックインをお願いします。佐藤の名前で予約しています。",
+          "note": "booking は「予約」。アメリカ英語の reservation に当たる。under ~ は「~ の名前で」。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "No worries, mate. Can I see your passport?",
+          "ja": "かしこまりました。パスポートを拝見できますか？",
+          "note": "mate は親しみを込めた呼びかけ。オーストラリアでは店員や係員が客に対しても使う。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "Sure, here you go.",
+          "ja": "はい、どうぞ。",
+          "note": "here you go は物を手渡すときの定番。here you are も同じ。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "Ta. You're in room 502, on the fifth floor. Here's your key card.",
+          "ja": "どうも。お部屋は 5 階の 502 号室です。こちらがキーカードです。",
+          "note": "Ta. は Thanks. のくだけた言い方。なお現地では 1 階を ground floor と呼ぶため、fifth floor は日本式では 6 階に当たる。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Thanks. What time is breakfast?",
+          "ja": "ありがとう。朝食は何時ですか？",
+          "note": ""
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Brekkie is from seven to ten in the restaurant downstairs.",
+          "ja": "朝食は 7 時から 10 時まで、階下のレストランです。",
+          "note": "brekkie は breakfast（朝食）の略。オーストラリア特有の言い方。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Great. Is the Wi-Fi free?",
+          "ja": "いいですね。Wi-Fi は無料ですか？",
+          "note": ""
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Yes, it's free. The password is on the card. Enjoy your stay!",
+          "ja": "はい、無料です。パスワードはカードに書いてあります。よいご滞在を！",
+          "note": "Enjoy your stay! はホテルでの見送りの定番。"
+        }
+      ]
+    },
+    {
+      "slug": "supermarket-asian-food",
+      "title": "アジアン食品売り場をたずねる",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Shopper",
+          "role_ja": "買い物客"
+        },
+        {
+          "id": "B",
+          "label_en": "Staff",
+          "role_ja": "店員"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Excuse me, could you help me for a sec?",
+          "ja": "すみません、少しだけいいですか？",
+          "note": "for a sec は for a second（ちょっとの間）の略。くだけた場面で使う。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "No worries, mate. What are you after?",
+          "ja": "いいですよ。何をお探しですか？",
+          "note": "What are you after? は「何をお探しですか」。オーストラリアの店員がよく使う言い方。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "I'm looking for tofu. Do you have any Asian food here?",
+          "ja": "豆腐を探しています。ここにアジア食品はありますか？",
+          "note": ""
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "Yeah, the Asian section is in aisle seven, near the back.",
+          "ja": "ありますよ、アジア食品売り場は 7 番通路の奥の方です。",
+          "note": "aisle は棚と棚の間の通路。スーパーでは番号で案内されることが多い。発音は「アイル」で s は読まない。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Is the tofu in the fridge or on the shelf?",
+          "ja": "豆腐は冷蔵ケースですか、それとも棚ですか？",
+          "note": ""
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "It's in the fridge, right next to the noodles.",
+          "ja": "冷蔵ケースの、麺のすぐ隣です。",
+          "note": ""
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Great, thanks so much for your help.",
+          "ja": "よかった、助かりました。ありがとうございます。",
+          "note": ""
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "You're welcome. Have a good one!",
+          "ja": "どういたしまして。よい一日を！",
+          "note": "Have a good one! は Have a good day! のくだけた言い方。"
+        }
+      ]
+    },
+    {
+      "slug": "melbourne-cafe-takeaway",
+      "title": "カフェでコーヒーとケーキをテイクアウト",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Traveler",
+          "role_ja": "旅行者"
+        },
+        {
+          "id": "B",
+          "label_en": "Barista",
+          "role_ja": "店員"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Hi, can I get a flat white, please?",
+          "ja": "こんにちは、フラットホワイトをひとつお願いします。",
+          "note": "flat white はオーストラリア発祥のコーヒー。ラテより泡が薄く、ミルクが少なめ。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "No worries. Having here or takeaway?",
+          "ja": "かしこまりました。店内でお召し上がりですか、お持ち帰りですか？",
+          "note": "takeaway は「持ち帰り」。アメリカ英語の to go / takeout に当たる。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "Takeaway, thanks. And one piece of carrot cake.",
+          "ja": "持ち帰りでお願いします。あと、キャロットケーキをひとつ。",
+          "note": ""
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "Sweet. That's nine fifty all up.",
+          "ja": "いいですよ。全部で 9 ドル 50 セントです。",
+          "note": "Sweet. は「オッケー」「いいね」。all up は「合計で」で、オーストラリアでよく使う。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Can I pay by card?",
+          "ja": "カードで払えますか？",
+          "note": ""
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Yeah, just tap there. Your coffee won't be long.",
+          "ja": "はい、そこにタッチしてください。コーヒーはすぐできます。",
+          "note": "tap は非接触決済でカードをかざすこと。won't be long は「すぐです」。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Great, thank you.",
+          "ja": "よかった、ありがとう。",
+          "note": ""
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "You're welcome. Have a good one!",
+          "ja": "どういたしまして。よい一日を！",
+          "note": "Have a good one! は Have a good day! のくだけた言い方。店を出るときの定番。"
+        }
+      ]
+    },
+    {
+      "slug": "japanese-food-recommendation",
+      "title": "日本食のおすすめを聞かれる",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Me",
+          "role_ja": "自分"
+        },
+        {
+          "id": "B",
+          "label_en": "Friend",
+          "role_ja": "友人"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Hi Josh! How are you going?",
+          "ja": "こんにちは、ジョシュ！ 調子はどう？",
+          "note": "How are you going? はオーストラリアの定番の挨拶。How are you? と同じ意味。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Good, thanks! Hey, I'm going to Japan next month. What Japanese food should I try?",
+          "ja": "元気だよ、ありがとう！ ねえ、来月日本に行くんだ。日本食は何を食べてみるといい？",
+          "note": ""
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "You should try okonomiyaki. It's like a savoury pancake with cabbage and pork.",
+          "ja": "お好み焼きを食べてみて。キャベツと豚肉が入った、甘くないパンケーキみたいなものだよ。",
+          "note": "savoury は「甘くない、塩気のある」。イギリス／オーストラリアの綴りで、アメリカでは savory。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "That sounds great. Is it easy to find?",
+          "ja": "おいしそうだね。見つけやすい？",
+          "note": ""
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Yes, there are many shops in Osaka. Ramen is good too, but it can be a bit salty.",
+          "ja": "うん、大阪にはお店がたくさんあるよ。ラーメンもいいけど、少ししょっぱいかも。",
+          "note": "a bit は「少し」。オーストラリアでは a little より a bit をよく使う。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "No worries, I love salty food. Thanks for the tips!",
+          "ja": "平気だよ、しょっぱいもの大好きだから。教えてくれてありがとう！",
+          "note": "No worries. はここでは「問題ないよ」。tips は「助言」。"
+        }
+      ]
+    },
+    {
+      "slug": "japan-travel-tips",
+      "title": "日本のおすすめ観光地を教える",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Local Friend",
+          "role_ja": "自分"
+        },
+        {
+          "id": "B",
+          "label_en": "Aussie Mate",
+          "role_ja": "友人"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "I heard you're planning a trip to Japan. That's exciting!",
+          "ja": "日本旅行を計画してるって聞いたよ。楽しみだね！",
+          "note": ""
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Yeah, I am! But I have no idea where to go. Any tips?",
+          "ja": "そうなんだ！ でもどこに行けばいいか全然わからなくて。何かおすすめある？",
+          "note": "Any tips? は「何かコツ（助言）ある？」。気軽に意見を求めるときの言い方。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "How long will you stay? And do you like cities or nature?",
+          "ja": "どのくらい滞在するの？ あと、都会と自然、どっちが好き？",
+          "note": ""
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "About two weeks. I reckon I'd like a bit of both.",
+          "ja": "2 週間くらい。どっちも少しずつがいいかな。",
+          "note": "I reckon は「~ だと思う」。オーストラリアでは I think の代わりに非常によく使う。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Then start in Tokyo. It's busy, but the food is amazing.",
+          "ja": "じゃあ東京から始めるといいよ。にぎやかだけど、食べ物が最高だから。",
+          "note": ""
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Sounds good. What about the countryside?",
+          "ja": "いいね。田舎の方はどう？",
+          "note": ""
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Go to Kyoto for old temples, and Hakone for hot springs and Mount Fuji.",
+          "ja": "古いお寺なら京都、温泉と富士山なら箱根だね。",
+          "note": "Go to A for B で「B なら A へ」。おすすめを短く伝えるときの言い方。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Hot springs sound great after a long day of walking.",
+          "ja": "一日中歩いたあとの温泉は良さそうだね。",
+          "note": ""
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "They are. Also, buy a rail pass. The trains are fast and easy.",
+          "ja": "そうだよ。あと、鉄道パスを買うといい。電車は速くて使いやすいから。",
+          "note": "rail pass は乗り放題の切符。海外からの旅行者が使う Japan Rail Pass のこと。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "No worries, I'll look it up tonight. When should I go?",
+          "ja": "了解、今夜調べてみるよ。いつ行くのがいい？",
+          "note": "look it up は「（ネットや辞書で）調べる」。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "Spring or autumn. Summer is too hot and humid for most people.",
+          "ja": "春か秋だね。夏はたいていの人には暑すぎるし、湿気も多いから。",
+          "note": ""
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Thanks heaps, mate. You've been a big help.",
+          "ja": "本当にありがとう。すごく助かったよ。",
+          "note": "mate は「相棒」「君」に当たる呼びかけ。オーストラリアでは親しみを込めて頻繁に使う。"
+        }
+      ]
+    },
+    {
+      "slug": "dinner-invite-call",
+      "title": "ディナーに招待されて",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Friend",
+          "role_ja": "友人"
+        },
+        {
+          "id": "B",
+          "label_en": "Me",
+          "role_ja": "自分"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Hi! Just calling about dinner tomorrow night. Are you still coming?",
+          "ja": "もしもし！ 明日の夜の食事の件で電話したんだけど。まだ来られる？",
+          "note": "Just calling about ~ は電話の切り出し方。「~ の件でお電話しました」。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Yes, of course! Should I bring anything?",
+          "ja": "もちろん行くよ！ 何か持っていこうか？",
+          "note": "Should I bring anything? は招待されたときの定番のひと言。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "No worries, I've got the food sorted. Maybe just some drinks?",
+          "ja": "大丈夫、食べ物はこっちで用意してあるから。飲み物だけお願いできる？",
+          "note": "sorted は「片づいている」「手配済み」。イギリス／オーストラリアでよく使う。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "Sure. Would wine be okay, or something soft?",
+          "ja": "いいよ。ワインでいい？ それともお酒じゃない方がいい？",
+          "note": "something soft は soft drink（アルコールの入っていない飲み物）のこと。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Wine would be lovely. And bring your appetite!",
+          "ja": "ワインがいいな。あと、お腹を空かせて来てね！",
+          "note": "bring your appetite は「たくさん食べてね」という決まり文句。appetite は食欲。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Great. See you at seven then. Thanks heaps!",
+          "ja": "わかった。じゃあ 7 時に。本当にありがとう！",
+          "note": "Thanks heaps! はオーストラリア特有の「すごくありがとう」。heaps は「たくさん」。"
+        }
+      ]
+    },
+    {
+      "slug": "dinner-invitation",
+      "title": "食事の誘いを受ける",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Me",
+          "role_ja": "自分"
+        },
+        {
+          "id": "B",
+          "label_en": "Friend",
+          "role_ja": "友人"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Hi Jack! How are you going?",
+          "ja": "こんにちは、ジャック！ 調子はどう？",
+          "note": "How are you going? はオーストラリアの定番の挨拶。How are you? と同じ意味で、「どうやって行くの」ではない。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Good, thanks! Hey, are you free tonight?",
+          "ja": "元気だよ、ありがとう！ ねえ、今夜は空いてる？",
+          "note": ""
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "Yes, I am. Why?",
+          "ja": "うん、空いてるよ。どうして？",
+          "note": ""
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "Would you like to have dinner with me?",
+          "ja": "一緒に夕食でもどう？",
+          "note": "Would you like to ~? は丁寧な誘い方。Do you want to ~? よりやわらかい。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "That sounds good. I'd love to.",
+          "ja": "いいですね。ぜひ。",
+          "note": "I'd love to. は誘いを受けるときの決まり文句で、I would love to の短縮。「大好きです」ではなく「ぜひそうしたい」という快諾を表す。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Great! Do you like Thai food?",
+          "ja": "よかった！ タイ料理は好き？",
+          "note": ""
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Yes, I love it. Is there a good place near here?",
+          "ja": "うん、大好き。この近くにいいお店はある？",
+          "note": ""
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Yeah, there's a nice one just around the corner.",
+          "ja": "あるよ、すぐそこの角にいい店がある。",
+          "note": "just around the corner は「すぐ近く」。実際に角を曲がった場所とは限らない。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "Perfect. What time should we meet?",
+          "ja": "いいね。何時に待ち合わせる？",
+          "note": ""
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "How about seven o'clock, outside the station?",
+          "ja": "7 時に駅の外でどう？",
+          "note": "How about ~? は提案の定番。outside the station は「駅の外」で、改札を出たところを指す。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "Sounds good. See you then!",
+          "ja": "いいね。じゃあまたその時に！",
+          "note": ""
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "No worries. See you tonight!",
+          "ja": "了解。今夜ね！",
+          "note": "No worries. はここでは「了解」「オッケー」に当たる。"
+        }
+      ]
+    },
+    {
+      "slug": "asking-for-morning-leave",
+      "title": "上司に午前休を申請する",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Employee",
+          "role_ja": "自分"
+        },
+        {
+          "id": "B",
+          "label_en": "Manager",
+          "role_ja": "上司"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Excuse me, have you got a minute?",
+          "ja": "すみません、少しお時間ありますか？",
+          "note": "have you got ~? はイギリス／オーストラリア英語でよく使う「~ ありますか」。アメリカ英語の do you have ~? に当たる。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Yeah, no worries. What's up?",
+          "ja": "ああ、いいよ。どうした？",
+          "note": "no worries はオーストラリアの定番。「いいよ」「気にしないで」など幅広く使う。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "I'd like to take tomorrow morning off. I need to go to the bank.",
+          "ja": "明日の午前中、休みをいただきたいのですが。銀行に行く用事があります。",
+          "note": "take ~ off で「~ を休む」。半休は half day off とも言うが、morning off / afternoon off の方が日常的。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "No problem at all. What time will you be back?",
+          "ja": "まったく問題ないよ。何時に戻る？",
+          "note": ""
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "I should be back by one o'clock.",
+          "ja": "1 時までには戻れると思います。",
+          "note": "should は「~ のはずだ」という見込み。「~ すべき」ではない。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "That's fine. Just send me an email so I have it in writing.",
+          "ja": "大丈夫。記録に残したいから、メールだけ送っておいて。",
+          "note": "in writing は「書面で」。口頭だけでなく記録に残す、という意味合い。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Sure, I'll do that now. Thanks a lot.",
+          "ja": "はい、すぐ送ります。ありがとうございます。",
+          "note": ""
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "No dramas. See you in the arvo then.",
+          "ja": "どういたしまして。じゃあ午後にね。",
+          "note": "No dramas. は no worries と同じ「問題ないよ」。arvo は afternoon（午後）の略。どちらもオーストラリア特有。"
+        }
+      ]
+    },
+    {
+      "slug": "restaurant-ordering",
+      "title": "レストランで注文する",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Waiter",
+          "role_ja": "ウェイター"
+        },
+        {
+          "id": "B",
+          "label_en": "Customer",
+          "role_ja": "客"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "G'day! Are you ready to order?",
+          "ja": "いらっしゃいませ！ ご注文はお決まりですか？",
+          "note": "G'day はオーストラリアの定番の挨拶。時間帯を問わず使える。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Yes, please. I'd like the steak and a flat white.",
+          "ja": "はい、お願いします。ステーキとフラットホワイトをください。",
+          "note": "flat white はオーストラリア発祥のコーヒー。ラテより泡が薄くミルクが少なめ。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "No worries. How would you like your steak?",
+          "ja": "かしこまりました。ステーキの焼き加減はいかがなさいますか？",
+          "note": "No worries は「いいですよ」「どういたしまして」に当たる万能表現。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "Medium, please. Does it come with chips?",
+          "ja": "ミディアムでお願いします。ポテトは付いてきますか？",
+          "note": "chips はフライドポテト。アメリカ英語の fries に当たる。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Yes, it comes with chips and a small salad.",
+          "ja": "はい、ポテトと小さめのサラダが付いています。",
+          "note": ""
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "That sounds great. Thank you.",
+          "ja": "いいですね。ありがとうございます。",
+          "note": ""
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Too easy. I'll bring it out soon.",
+          "ja": "お安いご用です。すぐにお持ちしますね。",
+          "note": "Too easy は「お安いご用」「問題ないですよ」。オーストラリアでよく聞く。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Cheers!",
+          "ja": "どうも！",
+          "note": "Cheers は乾杯だけでなく、軽い「ありがとう」としても使う。"
+        }
+      ]
+    },
+    {
+      "slug": "airport-immigration",
+      "title": "空港での入国審査",
+      "level": "beginner",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Officer",
+          "role_ja": "イミグレーション係官"
+        },
+        {
+          "id": "B",
+          "label_en": "Traveller",
+          "role_ja": "旅行者"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "G'day. Can I see your passport, please?",
+          "ja": "こんにちは。パスポートを拝見できますか？",
+          "note": "G'day はオーストラリアの定番の挨拶。時間帯を問わず使える。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Sure, here you are.",
+          "ja": "はい、どうぞ。",
+          "note": "Here you are. は物を手渡すときの決まり文句。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "What's the purpose of your visit?",
+          "ja": "渡航の目的は何ですか？",
+          "note": "入国審査でほぼ必ず聞かれる質問。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "I'm here on holiday for two weeks.",
+          "ja": "2週間の休暇で来ました。",
+          "note": "holiday は「休暇」。アメリカ英語の vacation に当たる。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Where are you staying in Australia?",
+          "ja": "オーストラリアではどちらに滞在されますか？",
+          "note": ""
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "At a hotel in Sydney, near the city centre.",
+          "ja": "シドニーの、市街地の近くのホテルです。",
+          "note": "centre はイギリス式の綴り。アメリカ英語では center。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "No worries. Enjoy your stay.",
+          "ja": "けっこうです。滞在をお楽しみください。",
+          "note": "No worries は「いいですよ」「問題ありません」に当たる万能表現。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Thank you very much.",
+          "ja": "ありがとうございます。",
+          "note": ""
+        }
+      ]
+    }
+  ]
+}
