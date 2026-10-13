@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-12",
+  "generated_at": "2026-10-13",
   "pronunciation_overrides": [
     {
       "from": "Ta",
@@ -9,6 +9,10 @@
     {
       "from": "Hakone",
       "to": "Hakoh-neigh"
+    },
+    {
+      "from": "G'day",
+      "to": "Gooday"
     }
   ],
   "skits": [
