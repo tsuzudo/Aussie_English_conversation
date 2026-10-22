@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-13",
+  "generated_at": "2026-10-22",
   "pronunciation_overrides": [
     {
       "from": "Ta",
@@ -16,6 +16,138 @@
     }
   ],
   "skits": [
+    {
+      "slug": "airport-immigration",
+      "title": "空港の入国審査",
+      "level": "intermediate",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Immigration Officer",
+          "role_ja": "入国審査官"
+        },
+        {
+          "id": "B",
+          "label_en": "Traveler",
+          "role_ja": "旅行者"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "G'day. Passport and arrival card, please.",
+          "ja": "こんにちは。パスポートと入国カードをお願いします。",
+          "note": "G'day はオーストラリアの定番のあいさつ。Good day が短くなったもので、朝でも昼でも使える。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Here you are. Sorry, I think I filled in the back page twice.",
+          "ja": "どうぞ。すみません、裏面を二重に書いてしまったみたいです。",
+          "note": "fill in は書類に記入するという言い方。アメリカ英語の fill out より、豪英語ではこちらをよく聞く。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "No worries, that's fine. What's the purpose of your visit?",
+          "ja": "大丈夫ですよ、問題ありません。訪問の目的は何ですか。",
+          "note": "No worries はオーストラリアで非常によく使う返し。「気にしないで」「どうぞ」「いいよ」と幅広く使える。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "I'm here on holiday. I'll be travelling around for two weeks.",
+          "ja": "休暇で来ました。2週間ほど各地を回る予定です。",
+          "note": "休暇の旅行は豪英語で on holiday。アメリカ英語の on vacation はあまり使わない。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Whereabouts are you staying while you're here?",
+          "ja": "滞在中はどのあたりに泊まりますか。",
+          "note": "whereabouts は where のくだけた言い方で「どのあたり」。豪州の日常会話でよく出る。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "A few nights in Sydney, then I'm heading up to Cairns.",
+          "ja": "シドニーで数泊して、それからケアンズへ向かいます。",
+          "note": "head up to は「（北の方へ）向かう」。方向に合わせて head down や head over も使う。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Have you got a return ticket with you?",
+          "ja": "帰りの航空券はお持ちですか。",
+          "note": "Have you got ～? は do you have ～? と同じ意味で、豪英語・英英語でよく使われる形。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Yes, I've got it on my phone. Shall I bring it up for you?",
+          "ja": "はい、スマホに入っています。画面に出しましょうか。",
+          "note": "bring it up は画面に表示させること。話題を持ち出すという意味もある。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "No need. Are you carrying any food, or anything made of wood?",
+          "ja": "いりません。食品や木製品は持っていますか。",
+          "note": "豪州は検疫が厳しく、食品・木製品・種子は必ず申告が必要。この質問はほぼ必ず聞かれる。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "I've got some biscuits in my bag. I ticked the box on the card.",
+          "ja": "カバンにビスケットが入っています。カードの欄にチェックを入れました。",
+          "note": "biscuit は豪英語でクッキーのこと。tick the box は「チェックを入れる」で、米英語の check the box に当たる。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "Good on you for declaring it. Take the red channel on your way out.",
+          "ja": "申告してくれて助かります。出るときは赤いレーンへ進んでください。",
+          "note": "Good on you は「よくやった」とほめる豪州特有の言い方。red channel は申告品がある人用の通路。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Will that take long? I've got a connecting flight at two.",
+          "ja": "時間はかかりますか。2時に乗り継ぎ便があるんです。",
+          "note": "connecting flight は乗り継ぎ便。乗り継ぎそのものは layover や transit とも言う。"
+        },
+        {
+          "id": 13,
+          "speaker": "A",
+          "en": "You should be right. They'll just have a quick look in your bag.",
+          "ja": "大丈夫だと思いますよ。カバンの中を軽く見るだけです。",
+          "note": "You should be right は「大丈夫でしょう」という豪州の言い方。正しさの話ではない。"
+        },
+        {
+          "id": 14,
+          "speaker": "B",
+          "en": "That's a relief. Thanks for your help.",
+          "ja": "それなら安心です。ご親切にありがとうございます。",
+          "note": "That's a relief は「ほっとした」と伝える決まり文句。"
+        },
+        {
+          "id": 15,
+          "speaker": "A",
+          "en": "All done. Enjoy your stay in Australia.",
+          "ja": "これで終わりです。オーストラリアでの滞在を楽しんでください。",
+          "note": "All done は手続きが完了したことを伝える短い言い方。"
+        },
+        {
+          "id": 16,
+          "speaker": "B",
+          "en": "Ta. Have a good one.",
+          "ja": "ありがとう。よい一日を。",
+          "note": "Ta は Thanks のくだけた言い方で豪州や英国で使う。Have a good one は Have a good day の略式。"
+        }
+      ]
+    },
     {
       "slug": "furniture-bed-delivery",
       "title": "家具屋でベッドを買う",
@@ -1141,82 +1273,6 @@
           "en": "Cheers!",
           "ja": "どうも！",
           "note": "Cheers は乾杯だけでなく、軽い「ありがとう」としても使う。"
-        }
-      ]
-    },
-    {
-      "slug": "airport-immigration",
-      "title": "空港での入国審査",
-      "level": "beginner",
-      "region": "AU",
-      "speakers": [
-        {
-          "id": "A",
-          "label_en": "Officer",
-          "role_ja": "イミグレーション係官"
-        },
-        {
-          "id": "B",
-          "label_en": "Traveller",
-          "role_ja": "旅行者"
-        }
-      ],
-      "lines": [
-        {
-          "id": 1,
-          "speaker": "A",
-          "en": "G'day. Can I see your passport, please?",
-          "ja": "こんにちは。パスポートを拝見できますか？",
-          "note": "G'day はオーストラリアの定番の挨拶。時間帯を問わず使える。"
-        },
-        {
-          "id": 2,
-          "speaker": "B",
-          "en": "Sure, here you are.",
-          "ja": "はい、どうぞ。",
-          "note": "Here you are. は物を手渡すときの決まり文句。"
-        },
-        {
-          "id": 3,
-          "speaker": "A",
-          "en": "What's the purpose of your visit?",
-          "ja": "渡航の目的は何ですか？",
-          "note": "入国審査でほぼ必ず聞かれる質問。"
-        },
-        {
-          "id": 4,
-          "speaker": "B",
-          "en": "I'm here on holiday for two weeks.",
-          "ja": "2週間の休暇で来ました。",
-          "note": "holiday は「休暇」。アメリカ英語の vacation に当たる。"
-        },
-        {
-          "id": 5,
-          "speaker": "A",
-          "en": "Where are you staying in Australia?",
-          "ja": "オーストラリアではどちらに滞在されますか？",
-          "note": ""
-        },
-        {
-          "id": 6,
-          "speaker": "B",
-          "en": "At a hotel in Sydney, near the city centre.",
-          "ja": "シドニーの、市街地の近くのホテルです。",
-          "note": "centre はイギリス式の綴り。アメリカ英語では center。"
-        },
-        {
-          "id": 7,
-          "speaker": "A",
-          "en": "No worries. Enjoy your stay.",
-          "ja": "けっこうです。滞在をお楽しみください。",
-          "note": "No worries は「いいですよ」「問題ありません」に当たる万能表現。"
-        },
-        {
-          "id": 8,
-          "speaker": "B",
-          "en": "Thank you very much.",
-          "ja": "ありがとうございます。",
-          "note": ""
         }
       ]
     }
