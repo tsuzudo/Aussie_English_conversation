@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-22",
+  "generated_at": "2026-10-31",
   "pronunciation_overrides": [
     {
       "from": "Ta",
@@ -16,6 +16,256 @@
     }
   ],
   "skits": [
+    {
+      "slug": "butcher-buying-beef",
+      "title": "ブッチャーで牛肉を注文する",
+      "level": "intermediate",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Shopper",
+          "role_ja": "買い物客"
+        },
+        {
+          "id": "B",
+          "label_en": "Butcher",
+          "role_ja": "店員"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Hi, I'm after some beef for a barbie this weekend.",
+          "ja": "こんにちは、今週末のバーベキュー用に牛肉を探しているんですが。",
+          "note": "`be after ~` は「〜を探している・欲しい」。オーストラリアの店で品物を頼むときの定番の言い方。`barbie` は barbecue の略。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "No worries. How many are you feeding?",
+          "ja": "いいですよ。何人分ですか？",
+          "note": "`No worries` は「いいですよ・大丈夫」。オーストラリアで最もよく使われる返事の一つ。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "About six of us. What would you recommend for the grill?",
+          "ja": "6人くらいです。焼くのには何がおすすめですか？",
+          "note": "`the grill` は網焼きのこと。イギリス英語の「グリル＝オーブンの上火」とは違い、ここでは屋外の焼き台を指す。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "The scotch fillet's beautiful at the moment, or the rump if you're watching the budget.",
+          "ja": "今はスコッチフィレがとてもいいですよ。予算を抑えたいなら、ランプもあります。",
+          "note": "`scotch fillet` はリブロースのオーストラリア特有の呼び名（アメリカでは ribeye）。肉や野菜を `beautiful` と褒めるのも現地らしい言い方。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "I'll go with the scotch fillet. Could I get six steaks, about two centimetres thick?",
+          "ja": "スコッチフィレにします。2センチくらいの厚さで6枚もらえますか？",
+          "note": "`I'll go with ~` は「〜にします」。注文を決めるときの自然な表現。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Too easy. That'll come to about a kilo and a half, so roughly fifty-five dollars.",
+          "ja": "簡単ですよ。だいたい1.5キロで、55ドルくらいになります。",
+          "note": "`Too easy` は「お任せください・簡単です」。頼まれた側が快く引き受けるときのオーストラリアらしい返事。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "That's fine. Have you got any snags as well?",
+          "ja": "それで大丈夫です。ソーセージもありますか？",
+          "note": "`snags` はソーセージのオーストラリア俗語。`Have you got ~?` は「〜はありますか」のイギリス・オーストラリア式の言い方。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Yeah, the beef and caramelised onion ones are a cracker. Half a dozen?",
+          "ja": "ええ、ビーフとキャラメルオニオンのやつは最高ですよ。6本にしますか？",
+          "note": "`a cracker` は「すごくいいもの」。`half a dozen`（半ダース＝6個）は数を言うときによく使われる。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "Sounds good. And can you vacuum-seal the steaks? I'm not cooking them till Saturday.",
+          "ja": "いいですね。ステーキは真空パックにしてもらえますか？土曜日まで焼かないので。",
+          "note": "`not ~ till ...` で「…までは〜しない」。`till` は `until` の短い形で、会話では普通に使われる。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "Done. I'll pop a bit of ice in the bag too — it's a warm one today.",
+          "ja": "やっておきます。袋に氷も少し入れておきますね。今日は暖かいので。",
+          "note": "`pop` は「ちょっと入れる・置く」という軽い動作。`it's a warm one` は「暖かい日だね」と天気を指す言い方。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "Thanks, that's really helpful. Card's alright?",
+          "ja": "ありがとうございます、助かります。カードで大丈夫ですか？",
+          "note": "`alright` は「大丈夫・差し支えない」。`Is card alright?` と短く言って支払い方法を確認している。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Yep, tap and go over here. Enjoy the barbie!",
+          "ja": "はい、こちらでタッチ決済できます。バーベキュー楽しんでください！",
+          "note": "`tap and go` は非接触のタッチ決済のこと。オーストラリアの店で日常的に使われる言い方。"
+        },
+        {
+          "id": 13,
+          "speaker": "A",
+          "en": "Will do. Thanks!",
+          "ja": "そうします。ありがとう！",
+          "note": ""
+        },
+        {
+          "id": 14,
+          "speaker": "B",
+          "en": "See ya. Have a good one.",
+          "ja": "またね。良い一日を。",
+          "note": "`Have a good one` は「良い日を」の省略形。別れ際の決まり文句。"
+        }
+      ]
+    },
+    {
+      "slug": "asking-for-directions",
+      "title": "街で道を尋ねる",
+      "level": "intermediate",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Traveler",
+          "role_ja": "旅行者"
+        },
+        {
+          "id": "B",
+          "label_en": "Passer-by",
+          "role_ja": "通行人"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Excuse me, sorry to bother you. Could you help me out for a sec?",
+          "ja": "すみません、お邪魔してごめんなさい。少し助けていただけますか？",
+          "note": "for a sec は for a second の略で「ちょっとだけ」。オーストラリアでは語を短く縮める言い方がとても多い。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "No worries at all. What are you after?",
+          "ja": "全然かまいませんよ。何をお探しですか？",
+          "note": "No worries はオーストラリアの定番表現で「どうぞ」「気にしないで」。What are you after? は「何をお探しですか」の砕けた言い方。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "I'm trying to find the Central Markets, but I think I've taken a wrong turn somewhere.",
+          "ja": "セントラル・マーケットに行きたいのですが、どこかで曲がり方を間違えたみたいです。",
+          "note": "take a wrong turn は「曲がる場所を間違える」。道に迷った理由を伝える決まった言い方。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "Yeah, you're a fair way off. You've been heading away from it.",
+          "ja": "ええ、かなり離れていますよ。反対の方へ進んでしまっていますね。",
+          "note": "a fair way off は「かなり遠い」。fair は「公平」ではなく、オーストラリアでは「かなりの」という量の強調に使う。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Oh no, really? How far is it from here?",
+          "ja": "ええ、本当ですか？ここからどれくらいありますか？",
+          "note": ""
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "About a fifteen minute walk. Go straight down this street, past OTR, then take the second left.",
+          "ja": "歩いて15分くらいです。この通りをまっすぐ行って、ガソリンスタンドを過ぎたら2つ目を左に曲がってください。",
+          "note": ""
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Straight down, past OTR, second left. Got it. Is it well signposted?",
+          "ja": "まっすぐ行って、スタンドを過ぎて、2つ目を左ですね。わかりました。案内表示は出ていますか？",
+          "note": "signposted は「案内標識が出ている」。道案内の場面でよく使われる動詞の受け身形。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Not really, but you can't miss it. It's a big brick building with green awnings.",
+          "ja": "あまり出ていませんが、見逃すことはないですよ。緑の日よけが付いた大きなレンガの建物です。",
+          "note": "You can't miss it. は「すぐ分かりますよ」という道案内の決まり文句。「見逃してはいけない」という命令ではない。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "That's a relief. Would it be quicker to catch a tram instead?",
+          "ja": "それなら安心です。路面電車に乗ったほうが早いでしょうか？",
+          "note": "乗り物に「乗る」は catch を使う（catch a tram / catch the bus）。tram は路面電車で、メルボルンやアデレードで走っている。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "You could, but honestly by the time you wait for one, you'd be there already.",
+          "ja": "乗れますけど、正直なところ待っている間に歩いて着いてしまいますよ。",
+          "note": "by the time ... は「〜する頃には」。待ち時間と所要時間を比べる言い方。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "Fair enough, I'll walk then. Are there any decent coffee places along the way?",
+          "ja": "なるほど、では歩きます。途中にいいコーヒー屋さんはありますか？",
+          "note": "Fair enough は「なるほど、了解」と相手の言い分を受け入れる表現。オーストラリアで非常によく使う。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Heaps. There's a little place on the corner that does a cracking flat white.",
+          "ja": "たくさんありますよ。角にある小さな店のフラットホワイトは最高です。",
+          "note": "heaps は「たくさん」（a lot）のオーストラリア口語。cracking は「すごくいい」。flat white はオーストラリア発祥のミルク入りコーヒー。"
+        },
+        {
+          "id": 13,
+          "speaker": "A",
+          "en": "Perfect. I'll stop in on my way. Thanks so much for your help.",
+          "ja": "いいですね。途中で寄ってみます。本当にありがとうございました。",
+          "note": "stop in は「ちょっと立ち寄る」。on my way は「行く途中で」。"
+        },
+        {
+          "id": 14,
+          "speaker": "B",
+          "en": "Too easy. Enjoy your time in the city.",
+          "ja": "どうってことないですよ。街を楽しんでくださいね。",
+          "note": "Too easy はオーストラリアで「お安いご用」「全然いいよ」の意味。「簡単すぎる」という批判ではない。"
+        },
+        {
+          "id": 15,
+          "speaker": "A",
+          "en": "I will. Have a good one!",
+          "ja": "そうします。良い一日を！",
+          "note": "Have a good one! は Have a good day の砕けた別れの挨拶。"
+        },
+        {
+          "id": 16,
+          "speaker": "B",
+          "en": "Cheers, see ya.",
+          "ja": "どうも、またね。",
+          "note": "Cheers は乾杯だけでなく「ありがとう」「じゃあね」としても使う。see ya は see you の縮約。"
+        }
+      ]
+    },
     {
       "slug": "airport-immigration",
       "title": "空港の入国審査",
