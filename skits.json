@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-31",
+  "generated_at": "2026-11-16",
   "pronunciation_overrides": [
     {
       "from": "Ta",
@@ -16,6 +16,152 @@
     }
   ],
   "skits": [
+    {
+      "slug": "centrelink-phone-appointment",
+      "title": "Centrelinkに電話して予約をとる",
+      "level": "intermediate",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Caller",
+          "role_ja": "予約を取る人"
+        },
+        {
+          "id": "B",
+          "label_en": "Centrelink Officer",
+          "role_ja": "Centrelinkの職員"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Hello, I'm calling to book an appointment at my local Centrelink office.",
+          "ja": "もしもし、近くのCentrelinkの窓口で予約を取りたくてお電話しました。",
+          "note": "「I'm calling to ...」は電話の用件を伝える決まった言い方。「〜の件でお電話しました」に当たる。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Certainly. Can I just confirm your Customer Reference Number to start with?",
+          "ja": "承知しました。まず、お客様の Customer Reference Number を確認させていただけますか。",
+          "note": "「to start with」は「まず最初に」。手続きの順番を示すときによく使う。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "Yes, it's 203 456 789A. Sorry, I'm not sure if I've read that out correctly.",
+          "ja": "はい、203 456 789A です。すみません、正しく読み上げられたか自信がありません。",
+          "note": "「read out」は「声に出して読み上げる」。番号や住所を電話で伝える場面の定番表現。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "That's come up fine, thank you. And what's the appointment about?",
+          "ja": "こちらで問題なく表示されました、ありがとうございます。それで、ご予約のご用件は何でしょうか。",
+          "note": "「come up」は画面に「表示される」という意味。「上がってくる」から連想しにくいので注意。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "I've put in a claim for JobSeeker Payment and I've been asked to come in and provide some documents.",
+          "ja": "JobSeeker Payment の申請を出したのですが、窓口に来て書類を提出するように言われました。",
+          "note": "「put in a claim」は「申請を出す」。「come in」はここでは「（窓口に）足を運ぶ」。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "No problem. We can fit you in next week. Would a morning or an afternoon suit you better?",
+          "ja": "かしこまりました。来週にお入れできます。午前と午後、どちらがご都合よろしいですか。",
+          "note": "「fit you in」は「空きに入れる」。「suit you」は「都合が合う」で、予約の調整で頻出。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "A morning would be better, if possible. I start work at one o'clock.",
+          "ja": "できれば午前のほうが助かります。1時から仕事が始まるので。",
+          "note": "「if possible」を添えると、希望を押しつけずに柔らかく伝えられる。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "We've got nine-fifteen on Tuesday the eighteenth, or ten o'clock on Thursday.",
+          "ja": "18日の火曜日の9時15分か、木曜日の10時が空いております。",
+          "note": "「We've got ...」は「〜が空いています」と在庫や空きを示す言い方。日付は the eighteenth のように序数で読む。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "Tuesday at nine-fifteen works for me. Which documents should I bring along?",
+          "ja": "火曜日の9時15分でお願いします。どの書類を持って行けばよいですか。",
+          "note": "「works for me」は「それで大丈夫です」と承諾する言い方。「bring along」は「持って行く」。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "Photo ID, your bank details, and your last two payslips if you've had any work recently.",
+          "ja": "写真付きの身分証明書、銀行口座の情報、それと最近働いていたなら直近2回分の給与明細です。",
+          "note": "「payslip」は給与明細。オーストラリアやイギリスで使う語で、アメリカでは pay stub と言う。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "I don't have a driver's licence. Would my passport be acceptable instead?",
+          "ja": "運転免許証を持っていません。代わりにパスポートでも大丈夫でしょうか。",
+          "note": "「Would ... be acceptable?」は「〜でも受け付けていただけますか」という丁寧な確認。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Yes, a passport is fine. Just bring the original, not a photocopy.",
+          "ja": "はい、パスポートで問題ありません。コピーではなく原本をお持ちください。",
+          "note": "「original」は書類の「原本」。「photocopy」は「コピー」。窓口の案内で対比して使われる。"
+        },
+        {
+          "id": 13,
+          "speaker": "A",
+          "en": "Understood. Do I need to arrive early to check in at reception?",
+          "ja": "わかりました。受付で手続きをするために早めに着いたほうがいいですか。",
+          "note": "「check in」は「受付を済ませる」。空港以外でも病院や役所の受付で使う。"
+        },
+        {
+          "id": 14,
+          "speaker": "B",
+          "en": "Ten minutes beforehand is plenty. If you're running late, please give us a ring so we can reschedule.",
+          "ja": "10分前で十分です。遅れそうな場合は、予約を変更できるようお電話ください。",
+          "note": "「running late」は「遅れそう」。「give us a ring」は「電話をください」で、オーストラリアやイギリスでよく使う。"
+        },
+        {
+          "id": 15,
+          "speaker": "A",
+          "en": "Will do. Will I get a confirmation of the appointment?",
+          "ja": "そうします。予約の確認は届きますか。",
+          "note": "「Will do.」は「そうします」と短く引き受ける返事。親しみのある場面で使う。"
+        },
+        {
+          "id": 16,
+          "speaker": "B",
+          "en": "I'll send a text message to the mobile number on your file right now.",
+          "ja": "ただ今、登録されている携帯番号にメッセージをお送りします。",
+          "note": "「on your file」は「記録に登録されている」。「mobile」は携帯電話で、アメリカの cell phone に当たる。"
+        },
+        {
+          "id": 17,
+          "speaker": "A",
+          "en": "Thank you very much for your help.",
+          "ja": "ご対応いただき、ありがとうございました。",
+          "note": ""
+        },
+        {
+          "id": 18,
+          "speaker": "B",
+          "en": "You're welcome. We'll see you on Tuesday morning.",
+          "ja": "どうぞご遠慮なく。火曜日の午前にお待ちしております。",
+          "note": "「We'll see you on ...」は別れ際に次回の予定を確認する言い方。"
+        }
+      ]
+    },
     {
       "slug": "butcher-buying-beef",
       "title": "ブッチャーで牛肉を注文する",
