@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-16",
+  "generated_at": "2026-11-17",
   "pronunciation_overrides": [
     {
       "from": "Ta",
@@ -16,6 +16,138 @@
     }
   ],
   "skits": [
+    {
+      "slug": "calling-friend-in-hospital",
+      "title": "入院した友人に電話で容体を尋ねる",
+      "level": "intermediate",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Friend 1",
+          "role_ja": "友人1"
+        },
+        {
+          "id": "B",
+          "label_en": "Friend 2",
+          "role_ja": "友人2"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Hi Dan, it's Marie. I just heard you've been admitted to hospital. How are you feeling?",
+          "ja": "もしもしダン、マリーだよ。入院したって今聞いたところなんだけど。具合はどう？",
+          "note": "be admitted to hospital は「入院する」の決まった言い方。イギリス・オーストラリア英語では hospital に the を付けません。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Oh, hi Marie. Thanks for calling. I'm a lot better than I was yesterday, to be honest.",
+          "ja": "ああ、マリー。電話ありがとう。正直、昨日よりずっと良くなってるよ。",
+          "note": "to be honest は文末に添えて「正直に言うと」と気持ちを和らげる表現。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "That's a relief. What happened? Your sister only told me it was something with your stomach.",
+          "ja": "それを聞いて安心した。何があったの？お姉さんからは胃の方の何かって聞いただけなんだ。",
+          "note": "That's a relief. は「ほっとした」。良い知らせを聞いたときの自然な一言です。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "I had really bad pain on Sunday night, so I ended up in emergency. It turned out to be appendicitis.",
+          "ja": "日曜の夜にひどく痛くなって、結局救急に行ったんだ。盲腸だと分かったよ。",
+          "note": "end up in 〜 は「結局〜することになる」。予定していなかった結果を表します。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "Oh no. Did they have to operate?",
+          "ja": "それは大変。手術することになったの？",
+          "note": "operate は「手術する」。この意味では目的語を取らず単独で使います。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Yes, on Monday morning. It all went well, though. They say I should be out by Friday.",
+          "ja": "うん、月曜の朝に。でも全部うまくいったよ。金曜までには退院できるって言われてる。",
+          "note": "be out は文脈によって「外出中」などになりますが、ここでは「退院している」という意味です。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "That's good news. Is there anything I can do to help? I'm free most of this week.",
+          "ja": "それは良かった。何か手伝えることある？今週はほとんど空いてるよ。",
+          "note": "Is there anything I can do to help? は手助けを申し出る定番の言い方。押しつけがましくなりません。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "Actually, there is one thing. Could you pick up my prescription from the chemist near my place?",
+          "ja": "実はひとつあるんだ。うちの近くの薬局で処方薬を受け取ってもらえる？",
+          "note": "chemist はオーストラリアやイギリスで「薬局」。アメリカの pharmacy や drugstore に当たります。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "Of course. I'll do that tomorrow morning. Do you need anything brought in from home?",
+          "ja": "もちろん。明日の朝に行くよ。家から持ってきてほしいものはある？",
+          "note": "bring in は病院や職場など「中へ持ってくる」こと。have something brought in で「持ってきてもらう」。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "If it's not too much trouble, my phone charger and a change of clothes would be great.",
+          "ja": "もし手間じゃなければ、携帯の充電器と着替えがあると助かる。",
+          "note": "If it's not too much trouble は「ご面倒でなければ」と遠慮を示す前置き。a change of clothes は「着替え一式」。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "No trouble at all. What are the visiting hours? I'd rather not turn up at the wrong time.",
+          "ja": "全然手間じゃないよ。面会時間は何時から何時？間違った時間に行きたくないから。",
+          "note": "turn up は「現れる、顔を出す」。I'd rather not 〜 は「できれば〜したくない」と控えめに言う形。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "Two until eight. Any time after lunch works for me. I'm in ward six, bed twelve.",
+          "ja": "2時から8時まで。昼ご飯のあとならいつでも大丈夫。6病棟の12番ベッドにいるよ。",
+          "note": "work for me は「都合がつく、それでいい」。日程調整でよく使います。"
+        },
+        {
+          "id": 13,
+          "speaker": "A",
+          "en": "Got it. I'll come by around three, then. Don't feel you have to entertain me if you're tired.",
+          "ja": "分かった。じゃあ3時ごろに行くね。疲れてたら気を使わなくていいからね。",
+          "note": "come by は「ちょっと立ち寄る」。entertain は「もてなす、相手をする」で、ここでは気を使って応対すること。"
+        },
+        {
+          "id": 14,
+          "speaker": "B",
+          "en": "I'll be fine. The food here is terrible, so a visitor will be a nice distraction.",
+          "ja": "大丈夫だよ。ここの食事はひどいから、誰か来てくれると気が紛れて助かる。",
+          "note": "distraction は「気を紛らわせてくれるもの」。悪い意味の「邪魔」にもなりますが、ここは良い意味です。"
+        },
+        {
+          "id": 15,
+          "speaker": "A",
+          "en": "Then I'll smuggle in some decent coffee. See you tomorrow. Take it easy until then.",
+          "ja": "じゃあまともなコーヒーをこっそり持ち込むよ。また明日ね。それまでゆっくりしてて。",
+          "note": "Take it easy は別れ際に「無理しないで」と言う表現。decent は「ちゃんとした、まともな」。"
+        },
+        {
+          "id": 16,
+          "speaker": "B",
+          "en": "You're a lifesaver. Thanks again for ringing, Marie.",
+          "ja": "本当に助かるよ。電話くれてありがとう、マリー。",
+          "note": "You're a lifesaver. は「本当に助かる」という感謝の決まり文句。ring は電話をかけること。"
+        }
+      ]
+    },
     {
       "slug": "centrelink-phone-appointment",
       "title": "Centrelinkに電話して予約をとる",
