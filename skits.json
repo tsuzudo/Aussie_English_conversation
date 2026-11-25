@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17",
+  "generated_at": "2026-11-25",
   "pronunciation_overrides": [
     {
       "from": "Ta",
@@ -16,6 +16,152 @@
     }
   ],
   "skits": [
+    {
+      "slug": "choosing-wine-at-restaurant",
+      "title": "レストランでワインを選ぶ",
+      "level": "intermediate",
+      "region": "AU",
+      "speakers": [
+        {
+          "id": "A",
+          "label_en": "Customer",
+          "role_ja": "客"
+        },
+        {
+          "id": "B",
+          "label_en": "Waiter",
+          "role_ja": "ウェイター"
+        }
+      ],
+      "lines": [
+        {
+          "id": 1,
+          "speaker": "A",
+          "en": "Excuse me, could I have a look at the wine list?",
+          "ja": "すみません、ワインリストを見せていただけますか。",
+          "note": "have a look at ~ は「~をちょっと見る」。could I have ~? は丁寧に頼むときの言い方。"
+        },
+        {
+          "id": 2,
+          "speaker": "B",
+          "en": "Of course. Here you are. Were you after a red or a white tonight?",
+          "ja": "もちろんです。どうぞ。今夜は赤と白、どちらをお探しですか。",
+          "note": "be after ~ は「~を求めている」という口語表現。オーストラリアでは店員がよく使う。"
+        },
+        {
+          "id": 3,
+          "speaker": "A",
+          "en": "That's the problem, actually. I can't decide between the two.",
+          "ja": "実はそこが悩みどころなんです。どちらにするか決められなくて。",
+          "note": "decide between A and B で「AとBのどちらにするか決める」。actually は「実は」と話を補足するときに使う。"
+        },
+        {
+          "id": 4,
+          "speaker": "B",
+          "en": "No problem at all. What are you having for your main?",
+          "ja": "まったく問題ありません。メインは何を召し上がりますか。",
+          "note": "main は main course（メイン料理）の略。レストランでは starter / main / dessert と呼び分ける。"
+        },
+        {
+          "id": 5,
+          "speaker": "A",
+          "en": "I've ordered the grilled barramundi, and my wife is having the lamb.",
+          "ja": "私はバラマンディのグリルを注文して、妻は仔羊肉にしました。",
+          "note": "is having は注文した料理について「~にする」という意味で使う。未来の予定を表す現在進行形。"
+        },
+        {
+          "id": 6,
+          "speaker": "B",
+          "en": "Right, so you've got fish and red meat on the same table. That's why it's tricky.",
+          "ja": "なるほど、同じテーブルに魚と赤身肉があるわけですね。だから悩ましいんですね。",
+          "note": "tricky は「扱いが難しい、やっかいな」。危険ではなく「判断が難しい」という意味。"
+        },
+        {
+          "id": 7,
+          "speaker": "A",
+          "en": "Exactly. Is there something that would go with both?",
+          "ja": "そのとおりです。どちらにも合うものはありますか。",
+          "note": "go with ~ は「~に合う」。料理と飲み物の相性を言うときの定番表現。"
+        },
+        {
+          "id": 8,
+          "speaker": "B",
+          "en": "I'd suggest a lighter red, like a pinot noir. It won't overpower the fish.",
+          "ja": "軽めの赤、ピノ・ノワールなどをおすすめします。魚の味を負けさせることはありません。",
+          "note": "I'd suggest ~ は「~をおすすめします」の控えめな言い方。overpower は「(味が)強すぎて他を押しつぶす」。"
+        },
+        {
+          "id": 9,
+          "speaker": "A",
+          "en": "I've never tried one with fish before. Does it really work?",
+          "ja": "魚と一緒に飲んだことは一度もありません。本当に合うんですか。",
+          "note": "work は「うまくいく、合う」。機械が動くという意味だけではない点に注意。"
+        },
+        {
+          "id": 10,
+          "speaker": "B",
+          "en": "It does, especially with grilled fish. The smokiness brings it together.",
+          "ja": "合いますよ、特にグリルした魚とは。香ばしさが全体をまとめてくれます。",
+          "note": "It does は前の文の work を繰り返す代わりの返答。bring ~ together は「~をうまくまとめる」。"
+        },
+        {
+          "id": 11,
+          "speaker": "A",
+          "en": "That sounds good. How much is the one you mentioned?",
+          "ja": "よさそうですね。今おっしゃったものはいくらですか。",
+          "note": "the one you mentioned で「あなたが言ったもの」。mention は「ちょっと口に出す」程度の軽い動詞。"
+        },
+        {
+          "id": 12,
+          "speaker": "B",
+          "en": "The bottle is forty-eight dollars, or we can do it by the glass for twelve.",
+          "ja": "ボトルで48ドル、グラスでしたら12ドルでお出しできます。",
+          "note": "by the glass は「グラス単位で」。飲み物のメニューでよく見る言い方。"
+        },
+        {
+          "id": 13,
+          "speaker": "A",
+          "en": "We'll go with the bottle, then. Could you let it breathe for a few minutes?",
+          "ja": "ではボトルにします。少しワインを空気に触れさせておいていただけますか。",
+          "note": "go with ~ は「~に決める」。let it breathe はワインを開けて空気に触れさせることで、決まった言い方。"
+        },
+        {
+          "id": 14,
+          "speaker": "B",
+          "en": "Certainly. I'll open it now and bring it over just before your mains.",
+          "ja": "承知しました。今開けて、メインが出る少し前にお持ちします。",
+          "note": "bring it over は「こちらへ持ってくる」。over が「そちらの席まで」という移動を添える。"
+        },
+        {
+          "id": 15,
+          "speaker": "A",
+          "en": "Perfect. And could we get some water for the table as well?",
+          "ja": "完璧です。それと、テーブルにお水もいただけますか。",
+          "note": "for the table は「このテーブル全員に」。人数分を頼むときの自然な言い方。"
+        },
+        {
+          "id": 16,
+          "speaker": "B",
+          "en": "Still or sparkling?",
+          "ja": "炭酸なしと炭酸入り、どちらにしますか。",
+          "note": "still は「炭酸なし」、sparkling は「炭酸入り」。海外のレストランでは必ず聞かれる。"
+        },
+        {
+          "id": 17,
+          "speaker": "A",
+          "en": "Just tap water is fine, thank you.",
+          "ja": "水道のお水で大丈夫です、ありがとう。",
+          "note": "tap water は「水道水」。無料で出てくることが多く、頼むのは失礼ではない。"
+        },
+        {
+          "id": 18,
+          "speaker": "B",
+          "en": "Right away. I'll be back with the wine shortly.",
+          "ja": "すぐにお持ちします。ワインを持ってまもなく戻ります。",
+          "note": "right away は「すぐに」。shortly は soon の少しかたい言い方で、接客でよく使われる。"
+        }
+      ]
+    },
     {
       "slug": "calling-friend-in-hospital",
       "title": "入院した友人に電話で容体を尋ねる",
